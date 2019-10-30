@@ -1,2 +1,2 @@
-# bootwhip
-An initialisation starter theme for wordpress, built with bootstrap.
+# CHYTools
+A mathematica package for computing simple CHY tools.
