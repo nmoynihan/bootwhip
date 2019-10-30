@@ -1,2 +1,2 @@
 # CHYTools
-A mathematica package for computing simple CHY tools.
+A mathematica package for computing simple CHY amplitudes.
